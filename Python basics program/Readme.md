@@ -1,2 +1,2 @@
 In this file basically we are going to discuss various problem of data structure and algorithm. We will discuss the problem and then we will discuss the solution of the problem.Also we are going to add some leet code ppoblem and solution of the problem.
-Along with this we are going to add some basic algo expert problem and solution of the problem.
+Along with this we are going to add some basic algo expert problem and solution of the problem.We are also going to  add some programs like Monkey and banana problem, Tower of hanoi problem, N queen problem, Rat in a maze problem, Sudoku problem, Knight tour problem, Hamiltonian cycle problem, Graph coloring problem, Subset sum problem, Sum of subset problem, Knapsack problem, Travelling salesman problem, Job s
